@@ -43,6 +43,7 @@ const Register = () => {
 	return (
 		<div className="login">
 			<section>
+        <h1>Register</h1>
 				<form
 					action=""
 					onSubmit={submitHandler}
